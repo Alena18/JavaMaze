@@ -14,7 +14,7 @@ body {
 
 #game-container {
   margin: 20px auto;
-  width: 580px;
+  width: 550px;
   position: relative;
 }
 
@@ -67,9 +67,9 @@ body {
 }
 
 #gameCanvas {
-  width: 580px;
+  width: 550px;
   background: #222;
-  margin-top: 55px;
+  margin-top: 35px;
 }
 
 #resultBox {
